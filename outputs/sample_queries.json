@@ -1,0 +1,164 @@
+[
+  {
+    "user_question": "¿Cómo agrego un nuevo integrante del equipo al sistema?",
+    "system_answer": "Based on our FAQ documentation, here's what I found:\n\n1. [Relevance: 65.04%] Unknown Section - General Content   TEMA: Administración de Integrantes del Equipo y Roles Agregar Integrantes del Equipo: Para agregar un nuevo integrante del equipo a tu sistema HR, ve...\n2. [Relevance: 57.99%] Unknown Section - General Content   TEMA: Obtención de Ayuda y Mantenimiento del Sistema Canales de Soporte: Contacta soporte a través del menú Ayuda en la plataforma o envía un correo a...\n3. [Relevance: 57.22%] Unknown Section - General Content   TEMA: Registros de Empleados y Gestión de Información Crear Registros de Empleados: Cuando un candidato acepta una oferta, su registro se convierte au...\n\nFor more detailed information, please contact our support team or visit the knowledge base.",
+    "chunks_related": [
+      {
+        "rank": 1,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 65.04,
+        "content_preview": "TEMA: Administración de Integrantes del Equipo y Roles Agregar Integrantes del Equipo: Para agregar un nuevo integrante del equipo a tu sistema HR, ve a la sección Personas y haz clic en \"Agregar Usua..."
+      },
+      {
+        "rank": 2,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 57.99,
+        "content_preview": "TEMA: Obtención de Ayuda y Mantenimiento del Sistema Canales de Soporte: Contacta soporte a través del menú Ayuda en la plataforma o envía un correo a soporte@empresa.com. Ofrecemos soporte por correo..."
+      },
+      {
+        "rank": 3,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 57.22,
+        "content_preview": "TEMA: Registros de Empleados y Gestión de Información Crear Registros de Empleados: Cuando un candidato acepta una oferta, su registro se convierte automáticamente en un perfil de empleado. También pu..."
+      },
+      {
+        "rank": 4,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 56.35,
+        "content_preview": "TEMA: Primeros Pasos en el Portal de Recursos Humanos Bienvenido a nuestra plataforma HR SaaS. Esta guía completa aborda toda la información esencial sobre configuración de cuentas, gestión de usuario..."
+      },
+      {
+        "rank": 5,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 56.12,
+        "content_preview": "Sistema de Seguimiento de Candidatos (ATS): Todas las solicitudes se recopilan automáticamente en nuestro ATS independientemente de la fuente. El panel de ATS proporciona una vista de canalización mos..."
+      }
+    ],
+    "metadata": {
+      "retrieval_method": "k-NN (FAISS) if available, else cosine similarity",
+      "chunks_used": 5,
+      "top_k_requested": 5
+    },
+    "evaluation": {
+      "score": 6,
+      "relevance": 5,
+      "completeness": 4,
+      "accuracy": 10,
+      "clarity": 6,
+      "justification": "Response quality needs improvement. Score: 6/10"
+    }
+  },
+  {
+    "user_question": "¿Qué planes de beneficios se ofrecen y cómo me inscribo?",
+    "system_answer": "Based on our FAQ documentation, here's what I found:\n\n1. [Relevance: 65.58%] Unknown Section - General Content   TEMA: Gestión de Salarios y Administración de Beneficios Gestión de Compensación: El módulo de Compensación te permite gestionar bandas salariales, co...\n2. [Relevance: 63.7%] Unknown Section - General Content   TEMA: Integraciones de Terceros y Acceso para Desarrolladores Integraciones Preconstruidas: Nuestra plataforma incluye integraciones preconstruidas co...\n3. [Relevance: 63.51%] Unknown Section - General Content   Retroalimentación 360 Grados: Configura ciclos de retroalimentación 360 grados donde los empleados reciben información de reportes directos, pares y g...\n\nFor more detailed information, please contact our support team or visit the knowledge base.",
+    "chunks_related": [
+      {
+        "rank": 1,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 65.58,
+        "content_preview": "TEMA: Gestión de Salarios y Administración de Beneficios Gestión de Compensación: El módulo de Compensación te permite gestionar bandas salariales, configurar estructuras de compensación y rastrear ca..."
+      },
+      {
+        "rank": 2,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 63.7,
+        "content_preview": "TEMA: Integraciones de Terceros y Acceso para Desarrolladores Integraciones Preconstruidas: Nuestra plataforma incluye integraciones preconstruidas con aplicaciones comerciales populares. Las integrac..."
+      },
+      {
+        "rank": 3,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 63.51,
+        "content_preview": "Retroalimentación 360 Grados: Configura ciclos de retroalimentación 360 grados donde los empleados reciben información de reportes directos, pares y gerentes. En la sección Desempeño, selecciona \"Retr..."
+      },
+      {
+        "rank": 4,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 63.5,
+        "content_preview": "Inscripción Abierta: Las campañas de inscripción abierta pueden configurarse en la sección Beneficios. Define períodos de inscripción con fechas de inicio y fin, empleados elegibles y beneficios dispo..."
+      },
+      {
+        "rank": 5,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 63.18,
+        "content_preview": "Administración de Acceso de Usuarios: Los usuarios activos pueden administrarse desde la sección Personas. Puedes ver todos los usuarios, sus roles, departamentos y fecha de último inicio de sesión. P..."
+      }
+    ],
+    "metadata": {
+      "retrieval_method": "k-NN (FAISS) if available, else cosine similarity",
+      "chunks_used": 5,
+      "top_k_requested": 5
+    },
+    "evaluation": {
+      "score": 6,
+      "relevance": 6,
+      "completeness": 3,
+      "accuracy": 10,
+      "clarity": 6,
+      "justification": "Response quality needs improvement. Score: 6/10"
+    }
+  },
+  {
+    "user_question": "¿Cómo funciona el sistema de seguimiento de tiempo y asistencia?",
+    "system_answer": "Based on our FAQ documentation, here's what I found:\n\n1. [Relevance: 75.3%] Unknown Section - General Content   TEMA: Gestión de Tiempo y Asistencia Configuración de Seguimiento de Tiempo: Configura el seguimiento de tiempo en la sección Tiempo. Define las horas...\n2. [Relevance: 73.47%] Unknown Section - General Content   TEMA: Programas de Capacitación y Desarrollo de Habilidades Sistema de Gestión de Aprendizaje (LMS): El LMS integrado te permite crear, entregar y ras...\n3. [Relevance: 70.97%] Unknown Section - General Content   Registros de Acceso y Registro de Auditoría: Cada acción en el sistema genera una entrada de registro de auditoría incluyendo usuario, acción, marca d...\n\nFor more detailed information, please contact our support team or visit the knowledge base.",
+    "chunks_related": [
+      {
+        "rank": 1,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 75.3,
+        "content_preview": "TEMA: Gestión de Tiempo y Asistencia Configuración de Seguimiento de Tiempo: Configura el seguimiento de tiempo en la sección Tiempo. Define las horas de trabajo estándar de tu empresa, patrones de tu..."
+      },
+      {
+        "rank": 2,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 73.47,
+        "content_preview": "TEMA: Programas de Capacitación y Desarrollo de Habilidades Sistema de Gestión de Aprendizaje (LMS): El LMS integrado te permite crear, entregar y rastrear cursos de capacitación. Construye cursos des..."
+      },
+      {
+        "rank": 3,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 70.97,
+        "content_preview": "Registros de Acceso y Registro de Auditoría: Cada acción en el sistema genera una entrada de registro de auditoría incluyendo usuario, acción, marca de tiempo, dirección IP y datos afectados. Los regi..."
+      },
+      {
+        "rank": 4,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 70.89,
+        "content_preview": "Estructura Organizacional: Construye tu organigrama en la sección Organización. El sistema admite jerarquías complejas con múltiples líneas de reporte si es necesario. Define departamentos, equipos y ..."
+      },
+      {
+        "rank": 5,
+        "section": "Unknown Section",
+        "topic": "General Content",
+        "relevance_score": 70.63,
+        "content_preview": "TEMA: Gestión de Salarios y Administración de Beneficios Gestión de Compensación: El módulo de Compensación te permite gestionar bandas salariales, configurar estructuras de compensación y rastrear ca..."
+      }
+    ],
+    "metadata": {
+      "retrieval_method": "k-NN (FAISS) if available, else cosine similarity",
+      "chunks_used": 5,
+      "top_k_requested": 5
+    },
+    "evaluation": {
+      "score": 6,
+      "relevance": 7,
+      "completeness": 3,
+      "accuracy": 10,
+      "clarity": 6,
+      "justification": "Response quality needs improvement. Score: 6/10"
+    }
+  }
+]
